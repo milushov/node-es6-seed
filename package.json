@@ -1,6 +1,6 @@
 {
   "name": "node-es6-seed",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Build node module with ES6, Babel and Webpack",
   "main": "dist/build.js",
   "scripts": {

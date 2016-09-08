@@ -1,6 +1,6 @@
 const myModule = {
   log(message){
-    return `Logging the message : ${message}`;
+    return console.log(`Logging the message : ${message}`);
   }
 }
 
